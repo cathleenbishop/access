@@ -1,2 +1,0 @@
-# access
-student site
